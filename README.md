@@ -6,7 +6,7 @@ The repository will be updated throughout the course as new topics are covered a
 
 ## Tutoring Hours
 
-Tutoring sessions are held every **Friday from 9:00 AM to 11:00 AM**.
+Tutoring sessions are held every **Friday from 9:00 AM to 11:00 AM** in **Aula I**.
 
 Any changes to the schedule will be communicated in advance.
 
@@ -14,11 +14,9 @@ Any changes to the schedule will be communicated in advance.
 
 If you are attending the tutoring sessions, you can find the material for each topic in the corresponding directory or notebook.
 
-If you'd also like to work on your own machine, make sure that your Python environment is correctly configured. A step-by-step installation guide is available here:
+All sessions will take place in the Informatics Room, where computers will be available. If you prefer to work on your own laptop, make sure that your Python environment is correctly configured. A step-by-step installation guide is available here:
 
 [Python Setup Guide](Setup_di_Python.md)
-
-Following the suggested setup will help ensure that everyone is working with the same Python environment and avoid version-related issues during the sessions.
 
 ## Contents
 
@@ -30,7 +28,7 @@ The repository is organized progressively according to the topics covered during
 **0b. Introduction to Python**  
 [Introduzione al Python](Intro_Python.ipynb) — A brief introduction to the Python language and its basic concepts.
 
-More material will be added as the tutoring sessions progress.
+_... More to come ..._
 
 ## Feedback and Support
 
