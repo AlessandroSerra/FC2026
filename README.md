@@ -6,7 +6,7 @@ The repository will be updated throughout the course as new topics are covered a
 
 ## Tutoring Hours
 
-Tutoring sessions are held every **Friday from 9:00 AM to 11:00 AM** in **Aula I**.
+Tutoring sessions are held every **Friday from 9:00 AM to 11:00 AM** in **Aula 209 @ Blocco A**.
 
 Any changes to the schedule will be communicated in advance.
 
