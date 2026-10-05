@@ -22,11 +22,14 @@ All sessions will take place in the Informatics Room, where computers will be av
 
 The repository is organized progressively according to the topics covered during the tutoring sessions.
 
-**0a. Environment Setup**  
+- **0a. Environment Setup**  
 [Python Setup Guide](Setup_di_Python.md) — Instructions for setting up Python, Miniforge, and VS Code.
 
-**0b. Introduction to Python**  
-[Introduzione al Python](Intro_Python.ipynb) — A brief introduction to the Python language and its basic concepts.
+- **0b. Introduction to Python**  
+  [Python Introduction](Intro_Python.ipynb) — A brief introduction to the Python language and its basic concepts.
+
+- **1. Basic Examples**  
+  [02/10 Tutoring](Tutoraggio_02.10) — Some basic Python examples.
 
 _... More to come ..._
 
