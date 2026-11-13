@@ -31,16 +31,16 @@ The repository is organized progressively according to the topics covered during
 - **1. Basic Examples**  
   [02/10 Tutoring](Tutoraggio_02.10) — Basic Python examples, user input, functions, and a free-fall exercise.
 
-- **2. Physical Applications and Numerical Integration**
+- **2. Physical Applications and Numerical Integration**  
   [09/10 Tutoring](Tutoraggio_09.10) — Satellite orbital height, wave interference, and integration of velocity data using the trapezoidal rule.
 
-- **3. Comparing Integration Methods**
+- **3. Comparing Integration Methods**  
   [21/10 Tutoring](Tutoraggio_21.10) — Midpoint, trapezoidal, Simpson's, and Gaussian quadrature methods, with relative-error comparisons. Includes the `gaussxw.py` helper for Gaussian quadrature.
 
-- **4. Nonlinear Equations and Minimization**
+- **4. Nonlinear Equations and Minimization**  
   [06/11 Tutoring](Tutoraggio_06.11) — Fixed-point iteration for a phase-transition model and golden-section minimization of the Buckingham potential.
 
-- **5. Differential Equations: RC Low-Pass Filter**
+- **5. Differential Equations: RC Low-Pass Filter**  
   [13/11 Tutoring](Tutoraggio_13.11) — Fourth-order Runge–Kutta integration of an RC circuit driven by a square wave, with comparisons of time constants and numerical stability for different time steps.
 
 _... More to come ..._
