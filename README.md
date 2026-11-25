@@ -43,6 +43,12 @@ The repository is organized progressively according to the topics covered during
 - **5. Differential Equations: RC Low-Pass Filter**  
   [13/11 Tutoring](Tutoraggio_13.11) — Fourth-order Runge–Kutta integration of an RC circuit driven by a square wave, with comparisons of time constants and numerical stability for different time steps.
 
+- **6. Object-Oriented Programming and Projectile Motion**
+  [18/11 Tutoring](Tutoraggio_18.11) — A custom `Vec2D` class with operator overloading, list comprehensions, and fourth-order Runge–Kutta integration of projectile motion with linear air resistance. Includes comparisons of trajectories and mechanical energy for different drag coefficients.
+
+- **7. Orbital Motion with Velocity Verlet**
+  [25/11 Tutoring](Tutoraggio_25.11) — A Sun–Earth gravitational simulation using the velocity Verlet method and the `Vec2D` class, with distances in astronomical units, time in years, and an animated visualization of the orbit.
+
 _... More to come ..._
 
 ## Feedback and Support
